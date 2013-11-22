@@ -9,6 +9,7 @@
 1. [Задание "Впиши себя"](https://github.com/trurl123/test)
 1. [Игра Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 1. [Git Book](http://git-scm.com/book)
+1. [Презентация](http://www.slideshare.net/AndreyLapin/git-intro-28524469)
 
 Установка
 ---
